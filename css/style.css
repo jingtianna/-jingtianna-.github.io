@@ -137,9 +137,9 @@ h1{
 	margin: 5px;
 }
 
-#projects_header {
+.projects_header {
     font-style: italic;
-    color: pink;
+    color: blueviolet;
 }
 
 /*mobile view stacked*/
