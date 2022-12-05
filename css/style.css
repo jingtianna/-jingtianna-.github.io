@@ -89,6 +89,7 @@ form {
 
 .active{
     color: plum;
+	font-size: 30px;
 }
 
 .skip {
