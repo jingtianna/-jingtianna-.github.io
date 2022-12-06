@@ -151,6 +151,16 @@ h1{
 }
 
 /**education page**/
+#education1, #education2{
+    padding:0;
+    margin:0;
+}
+
+.education{
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: auto auto auto;
+}
 
 
 /**project page**/
@@ -336,12 +346,6 @@ div{
 
 
 
-
-#education1, #education2{
-    padding:0;
-    margin:0;
-    overflow:scroll;
-}
 
 /*tablet view*/
 @media screen and (min-width: 768px) {
